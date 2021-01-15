@@ -5,9 +5,8 @@
     "name": "eas-update-alpha-test",
     "slug": "eas-update-alpha-test",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "runtimeVersion": "40.0.0",
+    "assetBundlePatterns": ["**/*"],
     "android": {
       "package": "com.easupdatealphatest"
     },

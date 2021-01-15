@@ -12,5 +12,11 @@
     <string>ALWAYS</string>
     <key>EXUpdatesLaunchWaitMs</key>
     <integer>0</integer>
+    <key>EXUpdatesSDKVersion</key>
+    <string>40.0.0</string>
+    <key>EXUpdatesUsesLegacyManifest</key>
+    <false/>
+    <key>EXUpdatesURL</key>
+    <string>https://staging.exp.host/update-manifest-experimental/51de7abe-3076-4d8d-ba35-95862735c105</string>
   </dict>
 </plist>
