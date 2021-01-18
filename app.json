@@ -11,7 +11,8 @@
       "package": "com.easupdatealphatest"
     },
     "ios": {
-      "bundleIdentifier": "org.name.easupdatealphatest"
+      "bundleIdentifier": "org.name.easupdatealphatest",
+      "icon": "./assets/icon.png"
     }
   }
 }
