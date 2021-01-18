@@ -6,7 +6,7 @@ import JJImage from './team.jonathan.png';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Image
+      {/* <Image
         source={JJImage}
         style={{
           height: 200,
@@ -14,7 +14,7 @@ export default function App() {
           resizeMode: 'contain',
           marginBottom: 32,
         }}
-      />
+      /> */}
       <Text>👋 Hello EAS Update</Text>
       <StatusBar style='auto' />
     </View>
