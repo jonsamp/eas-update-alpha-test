@@ -7,12 +7,12 @@
     "version": "1.0.0",
     "runtimeVersion": "40.0.0",
     "assetBundlePatterns": ["**/*"],
+    "icon": "./assets/icon.png",
     "android": {
       "package": "com.easupdatealphatest"
     },
     "ios": {
-      "bundleIdentifier": "org.name.easupdatealphatest",
-      "icon": "./assets/icon.png"
+      "bundleIdentifier": "org.name.easupdatealphatest"
     }
   }
 }
