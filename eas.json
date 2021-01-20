@@ -3,10 +3,18 @@
     "android": {
       "release": {
         "workflow": "generic"
+      },
+      "preview": {
+        "distribution": "internal",
+        "workflow": "generic"
       }
     },
     "ios": {
       "release": {
+        "workflow": "generic"
+      },
+      "preview": {
+        "distribution": "internal",
         "workflow": "generic"
       }
     }

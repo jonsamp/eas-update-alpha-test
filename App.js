@@ -15,7 +15,12 @@ export default function App() {
           marginBottom: 32,
         }}
       /> */}
-      <Text>👋 Hello EAS Update</Text>
+      <Text style={{ fontSize: 60, fontWeight: 'bold', textAlign: 'center' }}>
+        👋
+      </Text>
+      <Text style={{ fontSize: 60, fontWeight: 'bold', textAlign: 'center' }}>
+        Hello internal distribution
+      </Text>
       <StatusBar style='auto' />
     </View>
   );
